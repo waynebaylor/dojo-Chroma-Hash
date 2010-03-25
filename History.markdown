@@ -1,3 +1,11 @@
+dojo-Chroma-Hash Version History
+===========================
+
+## Version 0.1
+
+Initial release.
+
+
 Chroma-Hash Version History
 ===========================
 
