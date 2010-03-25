@@ -20,14 +20,12 @@ Try it out at: <tt>[http://mattt.github.com/Chroma-Hash/](http://mattt.github.co
 
 ## Usage
 
-<code>
-  dojo.query("input[type=password]").forEach(function(input) {
-    chromaHash(input, {
-      bars: 3, 
-      salt:"7be82b35cb0199120eea35a4507c9acf", 
-      minimum:6});
-  });
-</code>
+    dojo.query("input[type=password]").forEach(function(input) {
+      chromaHash(input, {
+        bars: 3, 
+        salt:"7be82b35cb0199120eea35a4507c9acf", 
+        minimum:6});
+    });
 
 - <tt>bars</tt> number of bars displayed (1,2,3, or 4)
 - <tt>salt</tt> value to be appended when calculating hash function
