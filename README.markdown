@@ -11,7 +11,7 @@ Chroma-Hash displays a series of colored bars at the end of field inputs so you 
 
 For a more detailed description of Chroma-Hash, be sure to [check out this blog post about it.](http://mattt.me/2009/11/chroma-hash-revisited/).
 
-**The Dojo version can be found at** [http://github.com/waynebaylor/dojo-Chroma-Hash.git](http://github.com/waynebaylor/dojo-Chroma-Hash.git)
+**The Dojo version can be found at** [http://github.com/waynebaylor/dojo-Chroma-Hash](http://github.com/waynebaylor/dojo-Chroma-Hash)
 
 ## Demo
 
