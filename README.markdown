@@ -24,7 +24,8 @@ Try it out at: <tt>[http://mattt.github.com/Chroma-Hash/](http://mattt.github.co
       chromaHash(input, {
         bars: 3, 
         salt:"7be82b35cb0199120eea35a4507c9acf", 
-        minimum:6});
+        minimum:6
+      });
     });
 
 - <tt>bars</tt> number of bars displayed (1,2,3, or 4)
