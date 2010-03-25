@@ -11,7 +11,7 @@ Chroma-Hash displays a series of colored bars at the end of field inputs so you 
 
 For a more detailed description of Chroma-Hash, be sure to [check out this blog post about it.](http://mattt.me/2009/11/chroma-hash-revisited/).
 
-The Dojo version can be found at http://github.com/waynebaylor/dojo-Chroma-Hash.git
+**The Dojo version can be found at** [http://github.com/waynebaylor/dojo-Chroma-Hash.git](http://github.com/waynebaylor/dojo-Chroma-Hash.git)
 
 ## Demo
 
@@ -19,10 +19,6 @@ Actions speak louder than words.
 Try it out at: <tt>[http://mattt.github.com/Chroma-Hash/](http://mattt.github.com/Chroma-Hash/ "Try out Chroma-Hash!")</tt>
 
 ## Usage
-
-<code>
-  $("input:password").chromaHash({bars: 3, salt:"7be82b35cb0199120eea35a4507c9acf", minimum:6});
-</code>
 
 <code>
   dojo.query("input[type=password]").forEach(function(input) {
